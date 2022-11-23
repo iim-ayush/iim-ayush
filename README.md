@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hey! 👋
+I'm Ayush, a 20 years old web developer from India.
 
-<!--
-**killer069/killer069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 TypeScript, JavaScript, Python, C#, C++
+- ⚙️ React, Next.js
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [@iimayush](https://twitter.com/instagram) on Instagram
+- [Radha Krishna#9135](./) on Discord
